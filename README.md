@@ -4,7 +4,7 @@ eng/deu/kor
 
 <b>[LINK]</b>
 (eng) https://sanghui-john.github.io/Intro_Sanghui/
-(kor) https://sanghui-john.github.io/Intro_Sanghui/ko.html
-(deu) https://sanghui-john.github.io/Intro_Sanghui/de.html
+<br>(kor) https://sanghui-john.github.io/Intro_Sanghui/ko.html
+<br>(deu) https://sanghui-john.github.io/Intro_Sanghui/de.html
 
 Language : html
